@@ -1,0 +1,38 @@
+[
+    {
+      "precio":  8300,
+      "id": 1,
+      "title": "Air Jordan 1 Low",
+      "thumbnailUrl": "./img/airjordans.jpg"
+    },
+    {
+      "precio": 5400,
+      "id": 2,
+      "title": "Campera Nike",
+      "thumbnailUrl": "./img/campera.jpg"
+    },
+    {
+      "precio": 6300,
+      "id": 3,
+      "title": "Anorak Nike",
+      "thumbnailUrl": "./img/camper.jpg"
+    },
+    {
+      "precio": 12200,
+      "id": 4,
+      "title": "Jordans basket",
+      "thumbnailUrl": "./img/jordans-basket.jpg"
+    },
+    {
+      "precio": 12600,
+      "id": 5,
+      "title": "Air Jordan 1 Low",
+      "thumbnailUrl": "./img/jordans.jpg"
+    },
+    {
+      "precio": 15000,
+      "id": 6,
+      "title": "Air Jordan 1 Mid",
+      "thumbnailUrl": "./img/zapas-beige.jpg"
+    }
+  ]
